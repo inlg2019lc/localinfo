@@ -1,0 +1,13 @@
+body{
+}
+
+.main{
+    margin:5%;
+    background-color:#ffffff;
+}
+
+.title{
+    font-size:20pt;
+    text-align:center;
+    background-color:#dfe8ff;
+}
