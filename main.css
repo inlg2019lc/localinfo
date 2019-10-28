@@ -11,3 +11,10 @@ body{
     text-align:center;
     background-color:#dfe8ff;
 }
+
+.important{
+    border:1px solid #ff0066;
+    margin:10px;
+    font-size:14pt;
+    padding:5px;
+}
